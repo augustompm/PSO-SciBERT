@@ -1,0 +1,6 @@
+﻿"dominio";"categoria_id";"categoria_nome";"sinonimos";"tecnicas_esperadas";"num_papers"
+"fase_gestao";"-1";"NULL";"NULL";"NULL";"17"
+"fase_gestao";"1";"Prevention";"Risk Reduction, Mitigation, Vulnerability Reduction, Preemptive Action, Disaster Avoidance, Risk Mapping, Hazard Monitoring";"Classification, Clustering, Predictive Modeling, Geospatial Analysis, Anomaly Detection";"191"
+"fase_gestao";"2";"Preparation";"Readiness, Alert Systems, Training, Infrastructure Setup, Disaster Preparedness, Community Readiness";"Time-Series Forecasting, Classification, Natural Language Processing, Simulation Modeling";"321"
+"fase_gestao";"3";"Response";"Emergency Response, Disaster Relief, Immediate Action, Search and Rescue, Aid Distribution";"Real-Time Classification, Object Detection, Sentiment Analysis, Resource Allocation Optimization";"124"
+"fase_gestao";"4";"Recovery";"Restoration, Reconstruction, Rehabilitation, Reintegration, Damage Repair";"Regression, Multi-Task Learning, Spatial Analysis, Optimization";"47"
